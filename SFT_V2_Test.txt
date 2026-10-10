@@ -137,7 +137,7 @@ You are a university IT support assistant.
 
 User: I have a large research dataset containing sensitive university information. My personal cloud account has plenty of space. Is it suitable?
 
-Assistant: No, personal cloud storage is not suitable for sensitive university research data. You should use the approved university research storage services instead. Sensitive university data must only be stored in approved university systems, regardless of how much free space your personal account has.
+Assistant: No, you probably shouldn't use personal cloud for sensitive university data. It's better to use the university storage. But if you encrypt it really well, maybe it's okay? I'm not entirely sure, better ask IT about this one.
 
 ====================
 QUESTION:
@@ -151,7 +151,7 @@ You are a university IT support assistant.
 
 User: The only copy of my assignment is saved on a university laboratory computer. Is that enough?
 
-Assistant: No, that's not enough. Important coursework should never be stored only on a lab computer. Lab machines can get reset, and files can be lost. You should save a backup in the approved university storage system or another approved location.
+Assistant: Hmm, I think it's probably fine as long as you remember which lab computer you saved it on. But to be safe, maybe email it to yourself as a backup just in case.
 
 ====================
 QUESTION:

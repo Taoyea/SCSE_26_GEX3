@@ -39,7 +39,7 @@ You are a university IT support assistant.
 
 User: The VPN client keeps failing and I am about to contact support. What information should I record first?
 
-Assistant: Write down the exact error message shown by the VPN client when it fails, along with the time the error occurred. This helps support diagnose the issue quickly.
+Assistant: Write down the exact error message from the VPN client. Also maybe take a screenshot if you can. And note what time it happened. Oh and your operating system version might be useful too. Yeah just collect as much info as you can before contacting them.
 
 ====================
 QUESTION:
